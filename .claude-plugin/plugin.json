@@ -1,0 +1,11 @@
+{
+  "name": "speed-roast",
+  "version": "1.0.0",
+  "description": "Website speed audit CLI with 26 celebrity persona roasts — Musk, Trump, Dostoevsky, MrBeast & more",
+  "author": {
+    "name": "Citedy",
+    "email": "hello@citedy.com"
+  },
+  "homepage": "https://www.citedy.com",
+  "repository": "https://github.com/Citedy/speed-roast"
+}
