@@ -1,0 +1,40 @@
+{
+  "name": "speed-roast",
+  "version": "1.0.0",
+  "description": "Get your website's performance roasted by 26 legendary personas — Elon Musk, Trump, Hemingway, Dostoevsky, MrBeast, Taylor Swift & more",
+  "bin": {
+    "speed-roast": "bin/cli.js"
+  },
+  "keywords": [
+    "performance",
+    "speed",
+    "web-vitals",
+    "roast",
+    "audit",
+    "cli",
+    "fun",
+    "personas",
+    "core-web-vitals",
+    "lighthouse"
+  ],
+  "author": {
+    "name": "Citedy",
+    "email": "hello@citedy.com",
+    "url": "https://www.citedy.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Citedy/speed-roast.git"
+  },
+  "homepage": "https://github.com/Citedy/speed-roast",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "README.md",
+    "LICENSE"
+  ]
+}
